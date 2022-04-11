@@ -2,4 +2,4 @@ O arquivo converte_imagem.py é utilizado para converter as imagens no formato j
 
 O arquivo classicador_supervisionado.py contém todos os métodos de classicação aplicadas nesse desafio.
 
-Os datasets não está no repositório por questão de privacidade. Porém, o diretório está da seguinte forma: uma pasta chamada datasets > dentro dessa pasta datasets, contém mais 5 outras pastas, onde cada pasta contém as imagens utilizadas. 
+Os datasets não está no repositório por questão de privacidade. Porém, o diretório dos arquivos deste projeto, está da seguinte forma: uma pasta chamada datasets > dentro dessa pasta datasets, contém mais 5 outras pastas, onde cada pasta contém as imagens utilizadas. 
