@@ -111,7 +111,7 @@ perceptro_mlp.fit(X_train, y_train)
 acc_perceptro_mlp = perceptro_mlp.score(X_test, y_test)
 print("Perceptron Multicamadas = {}".format(acc_perceptro_mlp))
 
-#Resultados da acurácia 
+#Resultados das acurácias dos métodos 
 metodos = ['KNN','SVC Linear','SVC Polinomial','Bayesiano Quadratic','Nearest Mean Classifier','Regressão logística','Perceptron Multicamadas']
 resultados = [acc_knn,acc_svm_linear,acc_svm_poly,acc_nv_quadratic,acc_nearest_mean,acc_logisticRegr,acc_perceptro_mlp]
 for v in range (len(metodos)):   
